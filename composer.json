@@ -1,6 +1,6 @@
 {
 
-    "name": "nazmul/zcmulticatering",
+    "name": "zcmulticatering",
     "description": "saas Restaurants / QR Menu / WhatsApp Online ordering / Reservation system",
     "type": "project",
     "keywords": ["framework", "codeigniter"],
