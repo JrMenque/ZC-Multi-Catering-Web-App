@@ -1,6 +1,6 @@
 {
 
-    "name": "nazmul/qrexorder",
+    "name": "nazmul/zcmulticatering",
     "description": "saas Restaurants / QR Menu / WhatsApp Online ordering / Reservation system",
     "type": "project",
     "keywords": ["framework", "codeigniter"],
@@ -25,7 +25,7 @@
     },
     "authors": [
         {
-            "name": "PHPLIME"
+            "name": "JrMenque"
         }
     ]
 }
